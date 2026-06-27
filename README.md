@@ -1,7 +1,7 @@
 # Edxso AI Engineer Intern — Assignment 1
 ### Level 1 Foundations: Custom RAG & Evaluation
 
-> **Author:** Anshul Sharma | **Domain:** Advanced Beekeeping Techniques  
+> **Author:** Anshul Kumar | **Domain:** Advanced Beekeeping Techniques  
 > **Stack:** `TF-IDF` · `FAISS` · `Groq/LLaMA-3.1` · `scikit-learn` · `numpy`
 
 ---
