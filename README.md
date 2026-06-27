@@ -117,7 +117,7 @@ embeddings = embedder.encode(DOCUMENTS, convert_to_numpy=True)
 
 ## Video Walkthrough
 
-🎥 [Link to async demo video](#) ← *(add after recording)*
+🎥     https://drive.google.com/file/d/1tL74GPBORDBxdgD-cAE1Nq01RMfi8mo5/view?usp=drivesdk  ← *(add after recording)
 
 ---
 
